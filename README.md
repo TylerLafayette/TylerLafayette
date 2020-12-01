@@ -1,1 +1,2 @@
-[![hello 👋](banner.png)](https://tylerlafayette.com)
+# `👋`
+https://tylerlafayette.com
